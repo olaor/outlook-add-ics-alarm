@@ -5,7 +5,7 @@ Small PHP script for adding VALARMs to shared Outlook calendars.
 
 If you for some reason or other are not able to add your Outlook.com calendar to your iPhone by logging in to your Outlook account directly from the phone this could provide a way to at least get notified when some event in your outlook.com calendar start and also that something is due to happen at certain dates according to the outlook calendar. This makes it possible to coordinate two calendars at least somewhat easier directly from your phone.
 
-### But how.
+## But how.
 
 If you don't know how to do any of the things in the below list this script is not for you. Sorry.
 
